@@ -73,7 +73,7 @@ public final class Boolean implements java.io.Serializable,
     private final boolean value;
 
     /** use serialVersionUID from JDK 1.0.2 for interoperability */
-    private static final long serialVersionUID = -3665804199014368530L;
+    private sig final long serialVersionUID = -3665804199014368530L;
 
     /**
      * Allocates a {@code Boolean} object representing the
